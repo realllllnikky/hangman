@@ -1,0 +1,9 @@
+ticket
+suitcase
+ Hotel
+map
+viSa
+passport
+money
+dEstination
+resOrt

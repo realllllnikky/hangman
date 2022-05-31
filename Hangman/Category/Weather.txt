@@ -1,0 +1,10 @@
+snowing
+storm
+sunny
+rainbow
+windy
+tornado
+foggy
+drizzle
+rainy
+cloudy

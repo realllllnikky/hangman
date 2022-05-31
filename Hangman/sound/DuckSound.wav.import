@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/DuckSound.wav-a5667dd0b31ddc2eccb32a5ef1da4a4c.sample"
+
+[deps]
+
+source_file="res://sound/DuckSound.wav"
+dest_files=[ "res://.import/DuckSound.wav-a5667dd0b31ddc2eccb32a5ef1da4a4c.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
